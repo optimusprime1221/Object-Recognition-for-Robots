@@ -11,16 +11,16 @@ in computer vision: Deep Learning using Convolutional Neural Networks
 Visual-Words (BoVW) with ORB descriptors.
 
 
-StateoftheArtinComputerVision for Robotics:
+State of the Art in Computer Vision for Robotics:
 
 
 • Modern Approaches
 
 
 Contemporary robotics vision uses: CNNs for segmentation, classification and
-detection[4], Transformers for object detection and pose estimation[5], Self
-supervised learning for low-label environments[7]. Multimodal RGB-D
-fusion networks for grasping and environment understanding[6].
+detection, Transformers for object detection and pose estimation, Self
+supervised learning for low-label environments. Multimodal RGB-D
+fusion networks for grasping and environment understanding.
 
 • Deep Learning in Robotics
 
